@@ -27,6 +27,9 @@ public class Mario extends MovingImage {
 	}
 
 	public void act(ArrayList<Shape> obstacles) {
+		
+		super.y ++ ;
+		
 		// FINISH ME!
 	}
 
